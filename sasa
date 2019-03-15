@@ -1,0 +1,4 @@
+typedef struct list{
+  int value;
+  struct list* next;
+}List,*Nlist;
