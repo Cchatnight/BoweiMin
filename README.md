@@ -1,6 +1,6 @@
 ### *这是我的第一个README*
 ***
-# BoweiMin  
+# **BoweiMin**  
 **正文**
 ==========  
 ### ~~BoweiMin~~
