@@ -13,7 +13,7 @@ First Algorithm
 =======
 ### *这是我的第一个README*
 ***
-# BoweiMin  
+# **BoweiMin**  
 **正文**
 >>>>>>> Update README.md
 ==========  
