@@ -2,3 +2,5 @@ typedef struct list{
   int value;
   struct list* next;
 }List,*Nlist;
+
+typedef a b
