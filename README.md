@@ -1,6 +1,6 @@
 # BoweiMin  
 First GitHub
 ========
-First Git
+First Algorithm
 ------
-### the using
+### quick sort
